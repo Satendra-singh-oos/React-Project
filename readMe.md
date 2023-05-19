@@ -27,7 +27,8 @@ https://vocal-bonbon-c1146e.netlify.app/
 
 
 <hr>
-<br/>
+
+
 
 ##  Project-2 ##
 ## Rock Paper Scissors Game in React ##
@@ -54,7 +55,7 @@ https://github.com/Satendra-singh-oos/Rock-Paper-Scissors
 https://inspiring-banoffee-93b878.netlify.app/
 
 <hr>
-<br/>
+
 
 ##  Project-3 ##
 
@@ -76,7 +77,6 @@ country etc by its name
 **Website Link**
 
 <hr>
-<br/>
 
 
 
@@ -100,7 +100,6 @@ features and all
 **Website Link**
 
 <hr>
-<br/>
 
 
 ##  Project-5 ##
