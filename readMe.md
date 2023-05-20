@@ -75,7 +75,7 @@ country etc by its name
 
 **GitHub-Repo-Link**
 
-https://github.com/Satendra-singh-oos/React-Movie-App
+https://github.com/Satendra-singh-oos/Meal-Store
 
 **Website Link**
 https://statuesque-liger-ba27ba.netlify.app/
