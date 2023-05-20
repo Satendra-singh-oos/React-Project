@@ -73,8 +73,12 @@ country etc by its name
 
 **Output**
 
+**GitHub-Repo-Link**
+
+https://github.com/Satendra-singh-oos/React-Movie-App
 
 **Website Link**
+https://statuesque-liger-ba27ba.netlify.app/
 
 <hr>
 
