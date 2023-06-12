@@ -100,9 +100,12 @@ features and all
 
 **Output**
 
+**GitHub-Repo-Link**
+
+https://github.com/Satendra-singh-oos/Pokiemon-App-React
 
 **Website Link**
-https://curious-frangollo-530892.netlify.app/
+https://statuesque-liger-ba27ba.netlify.app/
 
 <hr>
 
