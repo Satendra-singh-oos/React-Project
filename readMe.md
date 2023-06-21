@@ -105,7 +105,7 @@ features and all
 https://github.com/Satendra-singh-oos/Pokiemon-App-React
 
 **Website Link**
-https://statuesque-liger-ba27ba.netlify.app/
+https://curious-frangollo-530892.netlify.app
 
 <hr>
 
